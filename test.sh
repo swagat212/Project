@@ -6,3 +6,6 @@ echo "Hello $name"
 echo "Please provide your age"
 read age
 echo "You are currently $age years old"
+echo "Provide your address"
+read address
+echo "You are from $address"
